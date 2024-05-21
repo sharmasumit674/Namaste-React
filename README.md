@@ -1,1 +1,1 @@
-# namaste reaact
+# namaste react
